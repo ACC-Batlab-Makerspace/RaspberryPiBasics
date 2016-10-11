@@ -1,0 +1,9 @@
+#RealVNC.
+#goto realvnc.com and select download for Raspberry Pi
+#install realvnc client on Linux, iOS, Android, macOS, or Windows
+
+#weaved.
+sudo apt-get update
+sudo apt-get install weavedconnectd
+sudo weavedinstaller
+#follow menu instructions.

@@ -1,0 +1,8 @@
+#get vim
+sudo apt-get install vim
+
+#download firefox
+sudo apt-get install firefox-esr
+
+#download arduino
+sudo apt-get install arduino

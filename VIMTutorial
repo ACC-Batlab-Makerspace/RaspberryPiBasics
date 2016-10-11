@@ -1,0 +1,17 @@
+Vim Tutorial
+
+1. Before pressing any keys, take a look around vim! (If you pressed a key
+simply hit ESC on your keyboard to resume command mode.)
+
+#NOTE: Do not press any keys until instructed.
+
+2. Vim has two commonly used modes:
+        a. Command
+        b. Insert
+
+3. Command is used to give the Vim editor commands, such as:
+        #Command Argument       #Action
+        $ w                     Write/Save
+        $ q                     Quit
+        $ syntax on|off         Turn on programming syntax
+        $ i                     Insert Mode
